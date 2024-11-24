@@ -1,5 +1,5 @@
 # My-first-notebook-in-Kaggle
-Welcome to my first GitHub repository! In this project, I analyze a weather history dataset from Bangladesh, focusing on Dhaka's daily weather conditions over several years. The goal is to explore the dataset, preprocess the data, and develop machine learning models to predict weather conditions based on features such as temperature, humidity, wind speed, and pressure.
+**Welcome to my first GitHub repository! In this project, I analyze a weather history dataset from Bangladesh, focusing on Dhaka's daily weather conditions over several years. The goal is to explore the dataset, preprocess the data, and develop machine learning models to predict weather conditions based on features such as temperature, humidity, wind speed, and pressure.
 
 Key Highlights of the Project:
 Exploratory Data Analysis (EDA): Gaining insights into the dataset and understanding feature distributions.
@@ -10,3 +10,5 @@ Performance Evaluation: Utilizing metrics such as confusion matrices, classifica
 This project serves as a practical example of working with real-world data and applying machine learning to make predictions. It reflects my journey into data science and machine learning, and I’m excited to share it with the community.
 
 Feel free to explore the repository, provide feedback, and collaborate! Let’s dive into the world of weather data analysis together.
+**
+![Dhaka City](https://github.com/user-attachments/assets/d5643894-66cf-4720-b05d-8c406ff618b3)
